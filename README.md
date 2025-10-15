@@ -1,6 +1,6 @@
-# Rizz GPT — Full Working Codebase
+# GenZ GPT — Full Working Codebase
 
-This archive contains a minimal **Rizz GPT** project with:
+This archive contains a minimal **GenZ GPT** project with:
 - **client/** — React (Vite) frontend (simple chat UI)
 - **server/** — Node.js + Express backend that forwards messages to the OpenAI API
 
